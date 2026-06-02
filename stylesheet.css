@@ -1,3 +1,7 @@
+body {
+    text-align: center;
+    font-style: Verdana;
+}
 p {
-    color:red;
+    text-align: justify;
 }
