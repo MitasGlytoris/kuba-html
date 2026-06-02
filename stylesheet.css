@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Elms+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Elms+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
 
 
 body {
@@ -6,11 +8,13 @@ body {
     font-style: Elms Sans;
     color:red  
 }
-
+h1 {
+    font-family: "Elms Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
 p {
     text-align: justify;
-    font-family: "Elms Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: weight;
-    font-style: normal;
+    
 }
