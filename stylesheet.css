@@ -10,8 +10,8 @@ body {
 }
 h1 {
     font-family: "Elms Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 200;
+  font-family: "Black Ops One", system-ui;
+  font-weight: 400;
   font-style: normal;
 }
 p {
