@@ -9,4 +9,8 @@ body {
 
 p {
     text-align: justify;
+    font-family: "Elms Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
 }
