@@ -21,6 +21,9 @@ li {
 li a{
     color:white; font-size: 60px; font-weight: bold; margin-right: 25px;
 }
+.link {
+  color:white; font-size: 60px; font-weight: bold; margin-right: 25px;  
+}
 body {
     text-align: center;
     color:black;
