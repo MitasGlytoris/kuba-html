@@ -19,3 +19,7 @@ li a{
 .link {
   color:white; font-size: 60px; font-weight: bold; 
 }
+body {
+    text-align: center;
+    color:black;
+    background-color:aqua;
